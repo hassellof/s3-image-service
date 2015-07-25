@@ -1,7 +1,7 @@
 {
   "name": "s3-image-service",
   "version": "0.0.1",
-  "description": "A service for on demand transformation of image saves in an Amazon S3 bucket.",
+  "description": "Service for on demand transformation of image stored in an Amazon S3 bucket",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
